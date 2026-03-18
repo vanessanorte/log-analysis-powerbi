@@ -7,7 +7,7 @@ Analisar logs simulados para identificar comportamentos anômalos, como tentativ
 
 ## 📊 Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard-seguranca.png)
 
 ## 🔍 Análises realizadas
 
